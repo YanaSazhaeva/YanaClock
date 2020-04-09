@@ -1,0 +1,13 @@
+C:\Users\Yana\Documents\YanaClock\bin\Debug\netcoreapp3.1\YanaClock.exe
+C:\Users\Yana\Documents\YanaClock\bin\Debug\netcoreapp3.1\YanaClock.deps.json
+C:\Users\Yana\Documents\YanaClock\bin\Debug\netcoreapp3.1\YanaClock.runtimeconfig.json
+C:\Users\Yana\Documents\YanaClock\bin\Debug\netcoreapp3.1\YanaClock.runtimeconfig.dev.json
+C:\Users\Yana\Documents\YanaClock\bin\Debug\netcoreapp3.1\YanaClock.dll
+C:\Users\Yana\Documents\YanaClock\bin\Debug\netcoreapp3.1\YanaClock.pdb
+C:\Users\Yana\Documents\YanaClock\obj\Debug\netcoreapp3.1\YanaClock.csprojAssemblyReference.cache
+C:\Users\Yana\Documents\YanaClock\obj\Debug\netcoreapp3.1\YanaClock.csproj.CoreCompileInputs.cache
+C:\Users\Yana\Documents\YanaClock\obj\Debug\netcoreapp3.1\YanaClock.AssemblyInfoInputs.cache
+C:\Users\Yana\Documents\YanaClock\obj\Debug\netcoreapp3.1\YanaClock.AssemblyInfo.cs
+C:\Users\Yana\Documents\YanaClock\obj\Debug\netcoreapp3.1\YanaClock.dll
+C:\Users\Yana\Documents\YanaClock\obj\Debug\netcoreapp3.1\YanaClock.pdb
+C:\Users\Yana\Documents\YanaClock\obj\Debug\netcoreapp3.1\YanaClock.genruntimeconfig.cache
